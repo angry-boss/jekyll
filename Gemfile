@@ -1,3 +1,5 @@
+ruby File.read('.ruby-version').strip
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -28,3 +30,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
+
+gem "webrick", "~> 1.7"
