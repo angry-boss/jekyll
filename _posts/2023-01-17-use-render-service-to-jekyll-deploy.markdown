@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use Render service to Jekyll deploy"
+title: "Use Render service to Jekyll deploy."
 date: 2023-01-17 14:54:00
 categories: jekyll update
 ---
