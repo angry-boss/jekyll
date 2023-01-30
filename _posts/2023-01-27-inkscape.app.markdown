@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Inkscape.app"
+date: 2023-01-27 14:45:00
+categories: inkscape
+---
+The latest available version of Inkscape.app is 1.0.2 for El Capitan MacOSX. For downloading Inkscape need to use this link: https://inkscape.org/gallery/item/23885/Inkscape-1.0.2.dmg
